@@ -84,3 +84,9 @@ Código de ejemplo en Ruby
 x = 5 + 6
 puts "Hello World! #{x}"
 ```
+
+# Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Maxi | Burgos | INE |
+| Christian | Cruz | Pasaporte |
