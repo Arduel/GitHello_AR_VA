@@ -49,3 +49,9 @@ Underline 2
 - Esto es un itém de lista desordenada
 - Esto es un itém de lista desordenada
 - Esto es un itém de lista desordenada
+
+# Links
+
+- <a href="https://www.google.com">Esto es un link en HTML</a>
+- [Esto es un link en Markdown](https://www.google.com)
+- [Esto es un link al index](index.html)
