@@ -109,3 +109,9 @@ Esto es otro texto dividido por guiones bajos
 
 ___
 
+# Saltos de línea
+Esto es nuestro primer parráfo.
+
+Esto es nuestro primer parráfo.
+
+Esto es nuestro tercer parráfo.
