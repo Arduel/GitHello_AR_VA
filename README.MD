@@ -60,3 +60,27 @@ Underline 2
 # Imagenes
 
 ![Logo GitHub](https://cdn.freebiesupply.com/logos/large/2x/github-2-logo-png-transparent.png)
+
+# Code Snippets
+```cpp
+//Código de ejemplo en c++
+#include<stdio.h>
+
+int main(void){
+    printf("Hello MarkDown!!!");
+}
+```
+```python
+#Código de ejemplo en python
+
+s = 0
+
+for i in range(61):
+    s = S + i
+    print(s)
+```
+Código de ejemplo en Ruby
+```ruby
+x = 5 + 6
+puts "Hello World! #{x}"
+```
