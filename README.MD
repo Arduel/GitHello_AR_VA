@@ -1,3 +1,4 @@
+# Cabeceras
 # Cabecera H1
 ## Cabecera H2
 ### Cabecera H3
@@ -5,6 +6,7 @@
 ##### Cabecera H5
 ###### Cabecera H6
 
+# Underlines
 
 Underline 1
 -----------
@@ -12,6 +14,7 @@ Underline 1
 Underline 2
 ===========
 
+# Formato de énfasis a texto
 
 - formato *italica* 1 forma.
 - formato _italica_ 2 forma.
@@ -33,4 +36,16 @@ Underline 2
 ------------
 - combinacion de ~~**_tachado, bold y cursiva_**~~
 
+# Listas
 
+## Ordenada
+
+1. Esto es un itém de lista ordenada
+2. Esto es un itém de lista ordenada
+3. Esto es un itém de lista ordenada
+
+## Desordenada
+
+- Esto es un itém de lista desordenada
+- Esto es un itém de lista desordenada
+- Esto es un itém de lista desordenada
