@@ -1,3 +1,6 @@
+# Versión del curso
+# Versión del README: 1.2.2
+
 # Cabeceras
 # Cabecera H1
 ## Cabecera H2
