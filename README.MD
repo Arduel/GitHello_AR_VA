@@ -112,6 +112,6 @@ ___
 # Saltos de línea
 Esto es nuestro primer parráfo.
 
-Esto es nuestro primer parráfo.
+Esto es nuestro segundo parráfo.
 
 Esto es nuestro tercer parráfo.
