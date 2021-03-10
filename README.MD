@@ -56,3 +56,7 @@ Underline 2
 - [Esto es un link en Markdown](https://www.google.com)
 - [Esto es un link al index](index.html)
 - [Esto es un hipervínculo a la sección de Formatos](#formato-de-énfasis-a-texto)
+
+# Imagenes
+
+![Logo GitHub](https://cdn.freebiesupply.com/logos/large/2x/github-2-logo-png-transparent.png)
