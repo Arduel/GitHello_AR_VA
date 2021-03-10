@@ -90,3 +90,11 @@ puts "Hello World! #{x}"
 | ------ | -------- | --------- |
 | Maxi | Burgos | INE |
 | Christian | Cruz | Pasaporte |
+
+# Citas
+Esto es un texto referente a una cita que pondrémos debajo:
+> Esto es una cita.
+
+Esto es un texto que no se relaciona con la cita anterior
+> Esto es otra cita.
+
